@@ -1,0 +1,12 @@
+{
+  "MerkHinting": {
+    "path": "client/modules/merk-hinting/lib/suggest-company.jquery.js",
+    "exportsTo": "$",
+    "exportsAs": "merkSuggestify"
+  },
+  "TypeAhead": {
+    "path": "client/modules/merk-hinting/lib/typeahead.bundle.js",
+    "exportsTo": "$",
+    "exportsAs": "merkSuggestify"
+  }
+}

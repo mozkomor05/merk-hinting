@@ -1,0 +1,12 @@
+{
+    "module": "Merk-hinting",
+    "name": "merk-hinting",
+    "description": "Imper Merk Hinting.",
+    "author": "mozkomor05",
+    "acceptableVersions": [
+        ">=5.9.0"
+    ],
+    "php": [
+        ">=7.2"
+    ]
+}

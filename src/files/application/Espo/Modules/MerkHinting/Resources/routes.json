@@ -1,0 +1,10 @@
+[
+  {
+    "route": "/MerkAPI",
+    "method": "get",
+    "params": {
+      "controller": "Merk",
+      "action": "MerkAPI"
+    }
+  }
+]

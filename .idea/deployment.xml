@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="crm.wpdistro.cz" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="crm.wpdistro.cz">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/public_html/client/modules/merk-hinting" local="$PROJECT_DIR$/src/files/client/modules/merk-hinting" web="/" />
+            <mapping deploy="/public_html/application/Espo/Modules/MerkHinting" local="$PROJECT_DIR$/src/files/application/Espo/Modules/MerkHinting" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="demo.autocrm.cz">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/public_html/client/modules/merk-hinting" local="$PROJECT_DIR$/src/files/client/modules/merk-hinting" web="/" />
+            <mapping deploy="/public_html/application/Espo/Modules/MerkHinting" local="$PROJECT_DIR$/src/files/application/Espo/Modules/MerkHinting" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

@@ -1,0 +1,6 @@
+{
+  "views": {
+    "detail": "merk-hinting:views/lead/detail",
+    "edit": "merk-hinting:views/lead/edit"
+  }
+}
