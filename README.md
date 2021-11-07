@@ -9,4 +9,4 @@ Add companies hinting (https://www.merk.cz/) and autocomplete to Lead Entity.
 4. Copy the folders in `src/files` to the root of your EspoCRM installation.
 ## Copyright and attribution
 
-Copyright (c) 2021 David Moškoř. Released under the [MIT License](https://github.com/datamade/your-repo-here/blob/master/LICENSE).
+Copyright (c) 2021 David Moškoř. Released under the [MIT License](https://github.com/mozkomor05/merk-hinting/blob/main/LICENSE).
